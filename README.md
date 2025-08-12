@@ -1,8 +1,8 @@
-# Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+# Sri's-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
 
 ## **Project Objective**
 
-The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
+The Sri's Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
 
 ## **Dataset used**
 - <a href="https://github.com/Sri193/Sri-s-Store-Data-Analysis/blob/main/Sri's%20Store%20Data%20Analysis.xlsx">Sri's Store Data</a>
@@ -48,4 +48,4 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 ## **Final Conclusion:**
 
-To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+To improve the sales of Sri's Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
